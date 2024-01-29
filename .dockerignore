@@ -1,0 +1,3 @@
+.local.bin/
+packages/omni-server/config.default/models/nsfwjs/mobilenet-v2-quant/group1-shard1of1
+assets/
